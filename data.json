@@ -1,0 +1,17 @@
+{
+  "dataTotalMurid": {
+    "sekolah": "SD XYZ",
+    "total_murid": 320,
+    "laki_laki": 160,
+    "perempuan": 160
+  },
+  "dataPerKelas": [
+    { "kelas": "1A", "jumlah": 32, "wali_kelas": "Bu Sari" },
+    { "kelas": "1B", "jumlah": 30, "wali_kelas": "Pak Dedi" },
+    { "kelas": "2A", "jumlah": 31, "wali_kelas": "Bu Lina" }
+  ],
+  "dataGuru": [
+    { "nama": "Bu Sari", "mapel": "Matematika" },
+    { "nama": "Pak Dedi", "mapel": "Bahasa Indonesia" }
+  ]
+}
